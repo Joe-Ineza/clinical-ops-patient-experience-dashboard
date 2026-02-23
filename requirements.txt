@@ -1,7 +1,9 @@
-numpy<2
-pandas
-sqlalchemy
-psycopg2-binary
-python-dotenv
-streamlit
-plotly
+streamlit==1.54.0
+pandas==2.3.3
+numpy==1.26.4
+plotly==6.5.2
+sqlalchemy==2.0.46
+psycopg2-binary==2.9.11
+python-dotenv==1.2.1
+pyarrow==23.0.1
+altair==5.5.0
