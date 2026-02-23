@@ -48,6 +48,7 @@ def get_engine():
         host=host,
         port=int(port),
         database=db,
+        query={"sslmode": "require", "channel_binding": "require"},
     )
     return create_engine(db_url)
 
