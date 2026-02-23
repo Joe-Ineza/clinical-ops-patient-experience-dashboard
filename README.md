@@ -2,6 +2,9 @@
 
 This project builds a digital health analytics using open Synthea CSV data.
 
+## Live Demo
+- https://clinical-ops-patient-experience-dashboard-happh4mbzrkrappe6rew.streamlit.app/
+
 ## Executive Summary
 - **Objective:** Provide a practical operations and patient-experience dashboard for service monitoring and MEL-style review.
 - **Questions answered:** consultation volume/mix changes, referral and cost pressure points, NPS/complaint movement, and key qualitative complaint themes.
